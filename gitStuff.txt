@@ -1,0 +1,3 @@
+git config --global user.name "gogia"
+git config --global user.email "rmldillard@gmail.com"
+

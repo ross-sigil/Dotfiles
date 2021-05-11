@@ -1,0 +1,8 @@
+add to path
+~/.dotnet/tools
+
+example: export=$PATH:~/.dotnet/tools
+
+run
+dotnet dev-certs https
+

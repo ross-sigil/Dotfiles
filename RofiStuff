@@ -1,0 +1,6 @@
+to change themes
+rofi-theme-selector 
+
+
+launchstring
+rofi - modi "drun" -show drun -location 7
